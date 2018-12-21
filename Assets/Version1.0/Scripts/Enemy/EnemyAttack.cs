@@ -9,7 +9,7 @@ public class EnemyAttack : MonoBehaviour {
     public GameObject player;                          // Reference to the player GameObject.
 
 
-//    Animator anim;                              // Reference to the animator component.
+    Animator anim;                              // Reference to the animator component.
     //PlayerHealth playerHealth;                  // Reference to the player's health.
     EnemyHealth enemyHealth;                    // Reference to this enemy's health.
     bool playerInRange;                         // Whether player is within the trigger collider and can be attacked.
@@ -20,7 +20,7 @@ public class EnemyAttack : MonoBehaviour {
     {
         //playerHealth = player.GetComponent<PlayerHealth>();
         enemyHealth = GetComponent<EnemyHealth>();
-//        anim = GetComponent<Animator>();
+        anim = GetComponent<Animator>();
     }
 
 
