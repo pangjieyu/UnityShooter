@@ -8,18 +8,19 @@ public class EnemyMovement : MonoBehaviour {
 
     public GameObject PlayObject;
     Transform player;               // Reference to the player's position.
-//    PlayerHealth playerHealth;      // Reference to the player's health.
-    EnemyHealth enemyHealth;        // Reference to this enemy's health.
+    //PlayerHealth playerHealth;      // Reference to the player's health.
+    //EnemyHealth enemyHealth;        // Reference to this enemy's health.
     NavMeshAgent nav;               // Reference to the nav mesh agent.
 
 
     void Awake()
     {
         // Set up the references.
-        player = GameObject.FindGameObjectWithTag("Player").transform;
+        //player = GameObject.FindGameObjectWithTag("Player").transform;
         player = PlayObject.transform;
-//        playerHealth = player.GetComponent<PlayerHealth>();
-        enemyHealth = GetComponent<EnemyHealth>();
+        //playerHealth = player.GetComponent<PlayerHealth>();
+        //enemyHealth = GetComponent<EnemyHealth>();
+        nav = GetComponent<NavMeshAgent>();
     }
 
 
