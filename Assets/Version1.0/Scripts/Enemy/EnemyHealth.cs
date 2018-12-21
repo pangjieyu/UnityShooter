@@ -12,12 +12,13 @@ public class EnemyHealth : MonoBehaviour {
     public AudioClip deathClip;                 // The sound to play when the enemy dies.
 
 
-    Animator anim;                              // Reference to the animator.
-    AudioSource enemyAudio;                     // Reference to the audio source.
+    private Animator anim;                              // Reference to the animator.
+
+    private AudioSource enemyAudio;                     // Reference to the audio source.
     //ParticleSystem hitParticles;                // Reference to the particle system that plays when the enemy is damaged.
-    CapsuleCollider capsuleCollider;            // Reference to the capsule collider.
-    bool isDead;                                // Whether the enemy is dead.
-    bool isSinking;                             // Whether the enemy has started sinking through the floor.
+    private CapsuleCollider capsuleCollider;            // Reference to the capsule collider.
+    private bool isDead;                                // Whether the enemy is dead.
+    private bool isSinking;                             // Whether the enemy has started sinking through the floor.
 
 
     void Awake()
