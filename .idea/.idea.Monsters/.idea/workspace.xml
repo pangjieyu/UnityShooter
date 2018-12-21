@@ -2,18 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42aadad8-bf42-415c-913a-ad6abcc92f85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Monsters/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Monsters/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Monsters/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Monsters/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/ClockMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/ClockMaterial.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/DollArmMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/DollArmMaterial.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1.0.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Version1.0/Animation/GhostAC.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Version1.0/Animation/GhostAC.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyAttack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyAttack.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyHealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyHealth.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/DemoResources/Scripts/ME_DemoGUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/DemoResources/Scripts/ME_DemoGUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/DemoResources/Scripts/ME_MouseOrbit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/DemoResources/Scripts/ME_MouseOrbit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/DemoResources/Scripts/ME_RealtimeReflection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/DemoResources/Scripts/ME_RealtimeReflection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/PostEffects/Mobile/ME_DistortionAndBloom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/PostEffects/Mobile/ME_DistortionAndBloom.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/PostEffects/PC/Common/ME_ImageEffectHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/PostEffects/PC/Common/ME_ImageEffectHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/PostEffects/PC/Common/ME_MinAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/PostEffects/PC/Common/ME_MinAttribute.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/PostEffects/PC/Common/ME_RenderTextureUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/PostEffects/PC/Common/ME_RenderTextureUtility.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/Editor/MeshRendererEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/Editor/MeshRendererEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/Helpers/ME_AnimatorEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/Helpers/ME_AnimatorEvents.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/Helpers/ME_ColorHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/Helpers/ME_ColorHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/Helpers/ME_EffectSettingColor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/Helpers/ME_EffectSettingColor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_LightCurves.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_LightCurves.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_MeshMaterialEffect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_MeshMaterialEffect.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_ParticleCollisionDecal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_ParticleCollisionDecal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_ParticleGravityPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_ParticleGravityPoint.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_ParticleTrails.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_ParticleTrails.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_TrailRendererNoise.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/ME_TrailRendererNoise.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/PSMeshRendererUpdater.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Scripts/PSMeshRendererUpdater.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Shaders/Editor/ME_CustomMaterialInspectorParticle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Shaders/Editor/ME_CustomMaterialInspectorParticle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Shaders/Editor/ME_CustomShaderGUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Shaders/Editor/ME_CustomShaderGUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Shaders/ME_GlowCutoutGradient.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Shaders/ME_GlowCutoutGradient.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Shaders/ME_Particle.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Shaders/ME_Particle.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Shaders/ME_UberDistortStandard.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/Shaders/ME_UberDistortStandard.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1.1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1.2.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,16 +36,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Props/Floating.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
+            <state relative-caret-position="-20">
               <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
-                <marker date="1545309713021" expanded="false" signature="6:78" ph="..." />
-                <marker date="1545309713021" expanded="true" signature="117:636" ph="{...}" />
-                <marker date="1545309713021" expanded="true" signature="309:377" ph="{...}" />
-                <marker date="1545309713021" expanded="true" signature="438:634" ph="{...}" />
+                <marker date="1545392380376" expanded="false" signature="6:78" ph="..." />
+                <marker date="1545392380376" expanded="true" signature="117:636" ph="{...}" />
+                <marker date="1545392380376" expanded="true" signature="309:377" ph="{...}" />
+                <marker date="1545392380376" expanded="true" signature="438:634" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Props/MineCount.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <marker date="1545397632351" expanded="true" signature="6:123" ph="..." />
+                <marker date="1545397632351" expanded="true" signature="163:436" ph="{...}" />
+                <marker date="1545397632351" expanded="true" signature="290:321" ph="{...}" />
+                <marker date="1545397632351" expanded="true" signature="379:434" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyAttack.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+              <folding>
+                <marker date="1545392380372" expanded="false" signature="6:78" ph="..." />
+                <marker date="1545392380372" expanded="true" signature="121:2487" ph="{...}" />
+                <marker date="1545392380372" expanded="true" signature="407:583" ph="/* Animator anim;                              // Reference to the animator component. ... */" />
+                <marker date="1545392380372" expanded="true" signature="898:1066" ph="{...}" />
+                <marker date="1545392380372" expanded="true" signature="1108:1310" ph="{...}" />
+                <marker date="1545392380372" expanded="true" signature="1207:1304" ph="{...}" />
+                <marker date="1545392380372" expanded="true" signature="1351:1563" ph="{...}" />
+                <marker date="1545392380372" expanded="true" signature="1449:1557" ph="{...}" />
+                <marker date="1545392380372" expanded="true" signature="1583:2194" ph="{...}" />
+                <marker date="1545392380372" expanded="true" signature="1889:1958" ph="{...}" />
+                <marker date="1545392380372" expanded="true" signature="1968:2188" ph="/* If the player has zero or less health... ... */" />
+                <marker date="1545392380372" expanded="true" signature="2214:2485" ph="{...}" />
+                <marker date="1545392380372" expanded="true" signature="2278:2479" ph="/* If the player has health to lose... ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyHealth.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="99" column="44" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+              <folding>
+                <marker date="1545392380373" expanded="false" signature="6:100" ph="..." />
+                <marker date="1545392380373" expanded="true" signature="143:3481" ph="{...}" />
+                <marker date="1545392380373" expanded="true" signature="1268:1643" ph="{...}" />
+                <marker date="1545392380373" expanded="true" signature="1662:1905" ph="{...}" />
+                <marker date="1545392380373" expanded="true" signature="1736:1899" ph="{...}" />
+                <marker date="1545392380373" expanded="true" signature="1946:2448" ph="{...}" />
+                <marker date="1545392380373" expanded="true" signature="2363:2442" ph="{...}" />
+                <marker date="1545392380373" expanded="true" signature="2467:2924" ph="{...}" />
+                <marker date="1545392380373" expanded="true" signature="2957:3479" ph="{...}" />
+                <marker date="1545392380373" expanded="true" signature="3300:3440" ph="/* Increase the score by the enemy's score value. ... */" />
               </folding>
             </state>
           </provider>
@@ -51,6 +124,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/KriptoFX/MeshEffect/DemoResources/Scripts/ME_DemoGUI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../New Unity Project (2)/Assets/NPC/Game.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Props/MineCount.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -61,6 +135,7 @@
         <option value="$PROJECT_DIR$/Assets/script/rotation universal.cs" />
         <option value="$PROJECT_DIR$/Assets/script/speed movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Version1.0/Scripts/Props/Floating.cs" />
+        <option value="$PROJECT_DIR$/Assets/Version1.0/Scripts/Props/MineCount.cs" />
       </list>
     </option>
   </component>
@@ -79,17 +154,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Version1.0" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Version1.0" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Version1.0" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Enemy" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
           <select />
@@ -144,11 +237,12 @@
       <workItem from="1545292230306" duration="4013000" />
       <workItem from="1545309059258" duration="237000" />
       <workItem from="1545309386375" duration="685000" />
+      <workItem from="1545395301373" duration="1607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4935000" />
+    <option name="totallyTimeSpent" value="6542000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -161,8 +255,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18497577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18497577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -216,47 +311,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/script/speed movement.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/script/speed movement.js" />
     <entry file="file://$PROJECT_DIR$/Assets/script/rotation universal.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyHealth.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="99" column="44" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
-          <folding>
-            <marker date="1545292595651" expanded="false" signature="6:100" ph="..." />
-            <marker date="1545292595651" expanded="true" signature="143:3481" ph="{...}" />
-            <marker date="1545292595651" expanded="true" signature="1268:1643" ph="{...}" />
-            <marker date="1545292595651" expanded="true" signature="1662:1905" ph="{...}" />
-            <marker date="1545292595651" expanded="true" signature="1736:1899" ph="{...}" />
-            <marker date="1545292595651" expanded="true" signature="1946:2448" ph="{...}" />
-            <marker date="1545292595651" expanded="true" signature="2363:2442" ph="{...}" />
-            <marker date="1545292595651" expanded="true" signature="2467:2924" ph="{...}" />
-            <marker date="1545292595651" expanded="true" signature="2957:3479" ph="{...}" />
-            <marker date="1545292595651" expanded="true" signature="3300:3440" ph="/* Increase the score by the enemy's score value. ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyAttack.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding>
-            <marker date="1545292967974" expanded="false" signature="6:78" ph="..." />
-            <marker date="1545292967974" expanded="true" signature="121:2487" ph="{...}" />
-            <marker date="1545292967974" expanded="true" signature="407:583" ph="/* Animator anim;                              // Reference to the animator component. ... */" />
-            <marker date="1545292967974" expanded="true" signature="898:1066" ph="{...}" />
-            <marker date="1545292967974" expanded="true" signature="1108:1310" ph="{...}" />
-            <marker date="1545292967974" expanded="true" signature="1207:1304" ph="{...}" />
-            <marker date="1545292967974" expanded="true" signature="1351:1563" ph="{...}" />
-            <marker date="1545292967974" expanded="true" signature="1449:1557" ph="{...}" />
-            <marker date="1545292967974" expanded="true" signature="1583:2194" ph="{...}" />
-            <marker date="1545292967974" expanded="true" signature="1889:1958" ph="{...}" />
-            <marker date="1545292967974" expanded="true" signature="1968:2188" ph="/* If the player has zero or less health... ... */" />
-            <marker date="1545292967974" expanded="true" signature="2214:2485" ph="{...}" />
-            <marker date="1545292967974" expanded="true" signature="2278:2479" ph="/* If the player has health to lose... ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -333,13 +387,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Props/Floating.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
+        <state relative-caret-position="-20">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
-            <marker date="1545309713021" expanded="false" signature="6:78" ph="..." />
-            <marker date="1545309713021" expanded="true" signature="117:636" ph="{...}" />
-            <marker date="1545309713021" expanded="true" signature="309:377" ph="{...}" />
-            <marker date="1545309713021" expanded="true" signature="438:634" ph="{...}" />
+            <marker date="1545392380376" expanded="false" signature="6:78" ph="..." />
+            <marker date="1545392380376" expanded="true" signature="117:636" ph="{...}" />
+            <marker date="1545392380376" expanded="true" signature="309:377" ph="{...}" />
+            <marker date="1545392380376" expanded="true" signature="438:634" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyAttack.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <marker date="1545392380372" expanded="false" signature="6:78" ph="..." />
+            <marker date="1545392380372" expanded="true" signature="121:2487" ph="{...}" />
+            <marker date="1545392380372" expanded="true" signature="407:583" ph="/* Animator anim;                              // Reference to the animator component. ... */" />
+            <marker date="1545392380372" expanded="true" signature="898:1066" ph="{...}" />
+            <marker date="1545392380372" expanded="true" signature="1108:1310" ph="{...}" />
+            <marker date="1545392380372" expanded="true" signature="1207:1304" ph="{...}" />
+            <marker date="1545392380372" expanded="true" signature="1351:1563" ph="{...}" />
+            <marker date="1545392380372" expanded="true" signature="1449:1557" ph="{...}" />
+            <marker date="1545392380372" expanded="true" signature="1583:2194" ph="{...}" />
+            <marker date="1545392380372" expanded="true" signature="1889:1958" ph="{...}" />
+            <marker date="1545392380372" expanded="true" signature="1968:2188" ph="/* If the player has zero or less health... ... */" />
+            <marker date="1545392380372" expanded="true" signature="2214:2485" ph="{...}" />
+            <marker date="1545392380372" expanded="true" signature="2278:2479" ph="/* If the player has health to lose... ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Enemy/EnemyHealth.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="99" column="44" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+          <folding>
+            <marker date="1545392380373" expanded="false" signature="6:100" ph="..." />
+            <marker date="1545392380373" expanded="true" signature="143:3481" ph="{...}" />
+            <marker date="1545392380373" expanded="true" signature="1268:1643" ph="{...}" />
+            <marker date="1545392380373" expanded="true" signature="1662:1905" ph="{...}" />
+            <marker date="1545392380373" expanded="true" signature="1736:1899" ph="{...}" />
+            <marker date="1545392380373" expanded="true" signature="1946:2448" ph="{...}" />
+            <marker date="1545392380373" expanded="true" signature="2363:2442" ph="{...}" />
+            <marker date="1545392380373" expanded="true" signature="2467:2924" ph="{...}" />
+            <marker date="1545392380373" expanded="true" signature="2957:3479" ph="{...}" />
+            <marker date="1545392380373" expanded="true" signature="3300:3440" ph="/* Increase the score by the enemy's score value. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Version1.0/Scripts/Props/MineCount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1545397632351" expanded="true" signature="6:123" ph="..." />
+            <marker date="1545397632351" expanded="true" signature="163:436" ph="{...}" />
+            <marker date="1545397632351" expanded="true" signature="290:321" ph="{...}" />
+            <marker date="1545397632351" expanded="true" signature="379:434" ph="{...}" />
           </folding>
         </state>
       </provider>
