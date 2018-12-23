@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/**
+ * @file EnemyMovement.cs
+ * @brief 敌人移动脚本
+ * @author PangJieyu, pang.jie.yu@outlook.com
+ * @version 1.0
+ * @date 2018-12-22
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;

@@ -20,6 +20,8 @@ public class EnemyAttack : MonoBehaviour {
     {
         //playerHealth = player.GetComponent<PlayerHealth>();
         enemyHealth = GetComponent<EnemyHealth>();
+        if(attackDamage<100)
+            attackDamage += ((int)Time.time%30)*10;
 //        anim = GetComponent<Animator>();
     }
 

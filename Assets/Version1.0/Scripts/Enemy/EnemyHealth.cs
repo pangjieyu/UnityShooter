@@ -19,6 +19,7 @@ public class EnemyHealth : MonoBehaviour {
     private CapsuleCollider capsuleCollider;            // Reference to the capsule collider.
     private bool isDead;                                // Whether the enemy is dead.
     private bool isSinking;                             // Whether the enemy has started sinking through the floor.
+    private int n;
 
 
     void Awake()
@@ -31,6 +32,7 @@ public class EnemyHealth : MonoBehaviour {
 
         // Setting the current health when the enemy first spawns.
         currentHealth = startingHealth;
+        currentHealth += ((int)Time.time%30)*20;
     }
 
     void Update()
